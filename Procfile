@@ -1,1 +1,1 @@
-web: gunicorn blog-walkthrough-learning.wsgi
+web: gunicorn codestart.wsgi
