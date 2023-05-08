@@ -27,7 +27,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["blog-walkthrough-learning@herokuapp.com",
+ALLOWED_HOSTS = ["codestart@herokuapp.com",
                  '8000-frangidha-blogwalkthroug-yuu9oobzug.us2.codeanyapp.com']
 
 
