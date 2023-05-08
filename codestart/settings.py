@@ -28,7 +28,8 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 DEBUG = True
 
 ALLOWED_HOSTS = ["codestart@herokuapp.com",
-                 '8000-frangidha-blogwalkthroug-yuu9oobzug.us2.codeanyapp.com']
+                 '8000-frangidha-blogwalkthroug-yuu9oobzug.us2.codeanyapp.com',
+                 "blog-walkthrough-learning.herokuapp.com"]
 
 
 # Application definition
